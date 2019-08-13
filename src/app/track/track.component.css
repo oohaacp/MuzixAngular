@@ -1,0 +1,14 @@
+.example-card {
+  width: 23%;
+  margin-bottom: 2%;
+  margin-left: 80px;
+  background-color:peachpuff;
+  margin-top: 20px;
+ }
+ 
+ .cardList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+ }

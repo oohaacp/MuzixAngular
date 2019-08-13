@@ -1,0 +1,16 @@
+.example-card {
+  width: 23%;
+  margin-bottom: 2%;
+  margin-left: 80px;
+  margin-top: 20px;
+  background-color: lightgoldenrodyellow;
+
+ }
+ 
+ .cardList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  
+ }
